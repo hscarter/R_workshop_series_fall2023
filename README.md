@@ -4,18 +4,12 @@
 
 # Components
 1. Introduction to RStudio IDE and Computer Navigation
-		Concepts include: setting a working directory, using .Rproj files, changing the panel view and layouts, scripts vs Rmd files
-
+	*Concepts include: setting a working directory, using .Rproj files, changing the panel view and layouts, scripts vs Rmd files
 2. ggplot: Quick Introduction
-
-Concepts include: introduction to ggplot2 syntax, simple formatting changes, different plot types
-
+	*Concepts include: introduction to ggplot2 syntax, simple formatting changes, different plot types
 3. ggplot: Multipanel Figures and Custom Themes
-
-Concepts include: built in theme options, creating your own theme, faceting, different packages to combine plots
-
+	*Concepts include: built in theme options, creating your own theme, faceting, different packages to combine plots
 4. Regular Expressions with stringr
-
 5. Writing Functions in R
 
 
