@@ -1,4 +1,4 @@
-# Workshop Series: Fall Quarter 2023
+# R Workshop Series: Fall Quarter 2023
  Code and materials for a series of hour long workshops taught through NU Research Computing and Data Services by Haley Carter.
 
 
