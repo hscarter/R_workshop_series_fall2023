@@ -10,7 +10,7 @@
 3. ggplot: Multipanel Figures and Custom Themes
 	* Concepts include: built in theme options, creating your own theme, faceting, different packages to combine plots
 4. Regular Expressions with stringr
-5. Writing Functions in R
+5. Loops and Functions in R
 
 
 
