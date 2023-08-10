@@ -4,8 +4,7 @@
 
 # Components
 1. Introduction to RStudio IDE and Computer Navigation
-
-Concepts include: setting a working directory, using .Rproj files, changing the panel view and layouts, scripts vs Rmd files
+		Concepts include: setting a working directory, using .Rproj files, changing the panel view and layouts, scripts vs Rmd files
 
 2. ggplot: Quick Introduction
 
